@@ -26,6 +26,3 @@ class Circle {
         this.radius = circumference / Math.PI / 2;
     }
 }
-
-let world = new Circle(5);
-console.log(world.diameter);
